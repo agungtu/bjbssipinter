@@ -23,11 +23,11 @@ export default function Home() {
 
       {/* <About /> */}
 
-      <Screenshots />
+      <Features />
 
       <HowItWorks />
 
-      <Features />
+      <Screenshots />
 
       {/* <Counter /> */}
 

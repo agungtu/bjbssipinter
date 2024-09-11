@@ -27,7 +27,7 @@ const Pricing: React.FC = () => {
                 data-aos-duration="800"
                 data-aos-delay="200"
               >
-                <div className="price-header">
+                <div className="price-header ">
                   <h3 style={{color: "#AF0321;"}}>Paket A</h3>
                   <Image
                     src="/images/card.png"
@@ -35,7 +35,7 @@ const Pricing: React.FC = () => {
                     width={400}
                     height={500}
                   />
-                  <div className=" mt-4">
+                  <div className=" mt-4 ">
                     <h4 style={{ color: "#AF0321;" }}>Rp 10.000</h4>
                     <h4 style={{ color: "#AF0321;" }}>/ Registrasi User</h4>
                   </div>

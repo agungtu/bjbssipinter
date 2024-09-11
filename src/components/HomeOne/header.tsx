@@ -37,15 +37,16 @@ const Slider: React.FC = () => {
               >
                 <div className="slide-item-table">
                   <div className="slide-item-tablecell">
+                  <div className="wave-price-header"></div>
                     <div className="container">
                       <div className="row align-items-center">
-                        <div className="col-md-12">
+                        <div className="col-md-6">
                           <div className="slider-text">
-                            <h1 className="text-center">{value.heading}</h1>
+                            <h1 className="">{value.heading}</h1>
 
-                            <p className="text-center">{value.text}</p>
+                            <p className="">{value.text}</p>
 
-                            <div className="slide-button text-center">
+                            <div className="slide-button">
                               {/* <a
                                 href="https://app.dev.solusinegeri.com/BSCHOOL"
                                 target="_blank"
@@ -67,13 +68,13 @@ const Slider: React.FC = () => {
                           </div>
                         </div>
 
-                        <div className="col-md-8" style={{ marginTop: 100 }}>
+                        <div className="col-md-6" style={{ marginTop: 20 }}>
                           <div className="welcome-phone">
                             <Image
                               src={value.image}
                               alt="App Mockup image"
-                              width={500}
-                              height={200}
+                              width={400}
+                              height={100}
                             />
                           </div>
                         </div>

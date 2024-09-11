@@ -57,6 +57,8 @@ const HowItWorks: React.FC = () => {
         className="how-it-works"
         style={{ backgroundColor: " #AF0321;" }}
       >
+                        <div className="wave-bg-section-tb-two"></div>
+
         <div className="container">
           <div
             className="section-title"

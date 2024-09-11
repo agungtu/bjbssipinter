@@ -1553,7 +1553,7 @@ section {
   background-repeat: repeat-x;
   background-position: center bottom;
   bottom: -2px;
-  background-size: contain;
+  background-size: contain ;
   z-index: 1;
 }
 

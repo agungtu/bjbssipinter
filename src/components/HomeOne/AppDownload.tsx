@@ -13,7 +13,7 @@ const AppDownload: React.FC = () => {
             data-aos-duration="800"
             data-aos-delay="200"
           >
-            <h2 className="text-white">GET NOW !!!</h2>
+            <h2 className="text-white">Dapatkan Segera !!!</h2>
             <h4 className="text-white">
               Temukan era baru pendidikan dengan aplikasi yang memudahkan dan
               menginspirasi.

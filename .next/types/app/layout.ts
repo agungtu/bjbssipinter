@@ -1,4 +1,4 @@
-// File: /home/agung/Documents/bjbssipinter/src/app/layout.tsx
+// File: /home/agung/Documents/whitelabel-bjbssipinter-portal-frontend/bjbssipinter/src/app/layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/agung/Documents/bjbssipinter/src/app/layout\":[\"static/media/e1c529c04de64b40-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/agung/Documents/whitelabel-bjbssipinter-portal-frontend/bjbssipinter/src/app/layout\":[\"static/media/e1c529c04de64b40-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
